@@ -2,7 +2,7 @@
 
 ![Badge](https://img.shields.io/badge/Netlify-Link-green)
 
-[Click Here]()
+[Click Here](https://reviews-app-harshcodes.netlify.app/)
 
 ---
 
